@@ -26,4 +26,4 @@ Forkify utilizes Webpack to compile its files
 ``` $ npm run watch ```
 
 ### Author
-[Jonas Schmedtmann]: https://twitter.com/jonasschmedtman
+[Jonas Schmedtmann](https://twitter.com/jonasschmedtman)
