@@ -1,7 +1,7 @@
 # Forkify - tutorial project
 ---------------------------
 
-## Demo - https://my-forkify.netlify.com/
+#### Demo - https://my-forkify.netlify.com/
 
 This web app has been coded using modern JavaScript feautures: ES6, Webpack, npm, babel, etc. It is part of Jonas Schmedtmann's Udemy course.
 
