@@ -34,3 +34,5 @@ Forkify utilizes Webpack to compile its files
 
 ### Author
 [Jonas Schmedtmann](https://twitter.com/jonasschmedtman)
+
+This project was made with the help of Jonas Schmedtmann course.
