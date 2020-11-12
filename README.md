@@ -1,6 +1,8 @@
 # Forkify - tutorial project
 ---------------------------
 
+# Warning: The API I used only works with pizza recipes. To conduct a search, write in the search: Pizza
+
 #### Demo - https://my-forkify.netlify.com/
 
 This web app has been coded using modern JavaScript feautures: ES6, Webpack, npm, babel, etc. It is part of Jonas Schmedtmann's Udemy course.
